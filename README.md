@@ -72,3 +72,4 @@ Here's the [list of Roadmap features](https://github.com/ashokhirpara1/laravel-l
 - Forms, Validation and Form Requests
 - File Uploads and Storage Folder Basics
 - Table Pagination
+ 
